@@ -1,0 +1,2 @@
+# Earthquake-Building-Project-Matlab
+Matlab code that generates a random floor plan and multiple storied building structure. Columns can be modelled as linear or bi-linear. Failure strength can be incorporated. Slabs have variable moving point loads at a user defined location. Coefficient of friction between the slab and the point masses can be defined. Building response under earthquake excitation can be retrieved. 
